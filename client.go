@@ -25,8 +25,9 @@ import (
 	"net/http"
 	"net/url"
 
+	"github.com/gronka/google-maps-services-go/internal"
 	"golang.org/x/time/rate"
-	"googlemaps.github.io/maps/internal"
+	//"googlemaps.github.io/maps/internal"
 )
 
 // Client may be used to make requests to the Google Maps WebService APIs

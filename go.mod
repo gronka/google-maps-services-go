@@ -1,4 +1,6 @@
-module googlemaps.github.io/maps
+module github.com/gronka/google-maps-services-go
+
+//module googlemaps.github.io/maps
 
 go 1.12
 
