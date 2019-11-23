@@ -25,7 +25,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/gronka/google-maps-services-go"
+	"github.com/gronka/google-maps-services-go/internal"
 	"golang.org/x/time/rate"
 )
 
