@@ -1,5 +1,5 @@
 language: go
-go_import_path: googlemaps.github.io/maps
+go_import_path: github.com/gronka/google-maps-services-go
 before_install:
  - go get github.com/sergi/go-diff/...
  - go get github.com/stretchr/testify/...
